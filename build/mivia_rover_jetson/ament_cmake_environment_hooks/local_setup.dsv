@@ -1,0 +1,2 @@
+source;share/mivia_rover_jetson/environment/ament_prefix_path.sh
+source;share/mivia_rover_jetson/environment/path.sh

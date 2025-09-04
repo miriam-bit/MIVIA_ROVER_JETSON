@@ -1,0 +1,15 @@
+/home/miriam/MIVIA_ROVER_JETSON/install/share/ament_index/resource_index/package_run_dependencies/mivia_rover_jetson
+/home/miriam/MIVIA_ROVER_JETSON/install/share/ament_index/resource_index/parent_prefix_path/mivia_rover_jetson
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/ament_prefix_path.sh
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/ament_prefix_path.dsv
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/path.sh
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/path.dsv
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.bash
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.sh
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.zsh
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.dsv
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/package.dsv
+/home/miriam/MIVIA_ROVER_JETSON/install/share/ament_index/resource_index/packages/mivia_rover_jetson
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/cmake/mivia_rover_jetsonConfig.cmake
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/cmake/mivia_rover_jetsonConfig-version.cmake
+/home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/package.xml

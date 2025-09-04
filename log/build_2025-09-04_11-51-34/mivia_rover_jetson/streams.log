@@ -1,0 +1,20 @@
+[0.022s] Invoking command in '/home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/miriam/ros2_ws/install/rover_bringup_pkg:/home/miriam/ros2_ws/install/dwm1001_visualization:/home/miriam/ros2_ws/install/dwm1001_transform:/home/miriam/ros2_ws/install/dwm1001_driver:/opt/ros/humble /usr/bin/cmake --build /home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson -- -j8 -l8
+[0.121s] Invoked command in '/home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/miriam/ros2_ws/install/rover_bringup_pkg:/home/miriam/ros2_ws/install/dwm1001_visualization:/home/miriam/ros2_ws/install/dwm1001_transform:/home/miriam/ros2_ws/install/dwm1001_driver:/opt/ros/humble /usr/bin/cmake --build /home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson -- -j8 -l8
+[0.151s] Invoking command in '/home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/miriam/ros2_ws/install/rover_bringup_pkg:/home/miriam/ros2_ws/install/dwm1001_visualization:/home/miriam/ros2_ws/install/dwm1001_transform:/home/miriam/ros2_ws/install/dwm1001_driver:/opt/ros/humble /usr/bin/cmake --install /home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson
+[0.169s] -- Install configuration: ""
+[0.170s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/ament_index/resource_index/package_run_dependencies/mivia_rover_jetson
+[0.170s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/ament_index/resource_index/parent_prefix_path/mivia_rover_jetson
+[0.170s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/ament_prefix_path.sh
+[0.170s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/ament_prefix_path.dsv
+[0.171s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/path.sh
+[0.171s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/environment/path.dsv
+[0.171s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.bash
+[0.171s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.sh
+[0.171s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.zsh
+[0.172s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/local_setup.dsv
+[0.172s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/package.dsv
+[0.172s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/ament_index/resource_index/packages/mivia_rover_jetson
+[0.172s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/cmake/mivia_rover_jetsonConfig.cmake
+[0.172s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/cmake/mivia_rover_jetsonConfig-version.cmake
+[0.172s] -- Up-to-date: /home/miriam/MIVIA_ROVER_JETSON/install/share/mivia_rover_jetson/package.xml
+[0.175s] Invoked command in '/home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/miriam/ros2_ws/install/rover_bringup_pkg:/home/miriam/ros2_ws/install/dwm1001_visualization:/home/miriam/ros2_ws/install/dwm1001_transform:/home/miriam/ros2_ws/install/dwm1001_driver:/opt/ros/humble /usr/bin/cmake --install /home/miriam/MIVIA_ROVER_JETSON/build/mivia_rover_jetson

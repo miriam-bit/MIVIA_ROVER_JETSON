@@ -1,0 +1,4 @@
+source;share/mivia_rover_jetson/local_setup.bash
+source;share/mivia_rover_jetson/local_setup.dsv
+source;share/mivia_rover_jetson/local_setup.sh
+source;share/mivia_rover_jetson/local_setup.zsh
