@@ -16,7 +16,9 @@ git clone --recurse-submodules git@github.com:miriam-bit/MIVIA_ROVER_JETSON.git
 
 ## Avvio
 colcon build --merge-install
+
 source install/setup.bash
+
 ros2 launch mivia_rover_jetson rover_bringup.launch.py
 
 
